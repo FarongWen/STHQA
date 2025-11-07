@@ -39,7 +39,7 @@ A large-scale subjective study was conducted, where 45 human evaluators (23 men 
 
 ### Release Information:
 
-The **STHQA dataset** is publicly available and can be accessed through the following [BaiduDisk](https://github.com/FarongWen/STHQA).
+The **STHQA dataset** is publicly available and can be accessed through the following [BaiduDisk](https://github.com/FarongWen/STHQA) after the paper is accepted.
 
 This dataset offers a comprehensive benchmark for future research on quality assessment methods tailored for animated talking heads, especially in the context of stylized digital humans. It provides an essential resource for improving both subjective and objective evaluations of speech-driven animation in digital entertainment.
 
